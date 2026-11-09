@@ -1,0 +1,23 @@
+{
+  "version": "1.5.34",
+  "archive_profile": "a8f8310d-38f3-4f0d-bd8b-86e0e62397cb",
+  "sources": [
+    {
+      "path": "/tmp/tmplrzu8eln/pdfs",
+      "hint": "自动识别"
+    }
+  ],
+  "target_excel": "",
+  "salesperson": "Xie",
+  "exclude_names": [
+    "Muster",
+    "模板",
+    "运单",
+    "backup",
+    "backups",
+    "state",
+    ".venv"
+  ],
+  "rename_excel_date": false,
+  "font_preset": "标准"
+}
